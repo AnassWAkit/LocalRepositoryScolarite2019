@@ -28,6 +28,7 @@ public class ScolaireBackendApplication implements CommandLineRunner{
 //		User prof= new User("mehdi.chtaini@gmail.com", "123456", new Date(), "mehdichtaini.jpg", "chtaini", "mehdi", 061634567);
 //		prof.setRoles(roles2);
 //		userdao.save(prof);
+		System.out.println("Whoo is puuusht !");
 	}
 
 	
